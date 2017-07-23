@@ -1,0 +1,7 @@
+E:\Visual Studio工作目录\爬虫Code\HelperLib\bin\Debug\netcoreapp1.1\Dy2018CrawlerForJson.deps.json
+E:\Visual Studio工作目录\爬虫Code\HelperLib\bin\Debug\netcoreapp1.1\Dy2018CrawlerForJson.dll
+E:\Visual Studio工作目录\爬虫Code\HelperLib\bin\Debug\netcoreapp1.1\Dy2018CrawlerForJson.pdb
+E:\Visual Studio工作目录\爬虫Code\HelperLib\obj\Debug\netcoreapp1.1\Dy2018CrawlerForJson.csprojResolveAssemblyReference.cache
+E:\Visual Studio工作目录\爬虫Code\HelperLib\obj\Debug\netcoreapp1.1\Dy2018CrawlerForJson.AssemblyInfo.cs
+E:\Visual Studio工作目录\爬虫Code\HelperLib\obj\Debug\netcoreapp1.1\Dy2018CrawlerForJson.dll
+E:\Visual Studio工作目录\爬虫Code\HelperLib\obj\Debug\netcoreapp1.1\Dy2018CrawlerForJson.pdb

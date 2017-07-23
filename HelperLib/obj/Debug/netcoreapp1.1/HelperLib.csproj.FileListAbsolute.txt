@@ -1,0 +1,4 @@
+E:\Visual Studio工作目录\爬虫Code\HelperLib\bin\Debug\netcoreapp1.1\HelperLib.deps.json
+E:\Visual Studio工作目录\爬虫Code\HelperLib\bin\Debug\netcoreapp1.1\HelperLib.dll
+E:\Visual Studio工作目录\爬虫Code\HelperLib\obj\Debug\netcoreapp1.1\HelperLib.csprojResolveAssemblyReference.cache
+E:\Visual Studio工作目录\爬虫Code\HelperLib\obj\Debug\netcoreapp1.1\HelperLib.AssemblyInfo.cs

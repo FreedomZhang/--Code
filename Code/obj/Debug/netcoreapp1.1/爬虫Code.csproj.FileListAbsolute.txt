@@ -1,0 +1,11 @@
+E:\Visual Studio工作目录\爬虫Code\爬虫Code\bin\Debug\netcoreapp1.1\爬虫Code.deps.json
+E:\Visual Studio工作目录\爬虫Code\爬虫Code\bin\Debug\netcoreapp1.1\爬虫Code.runtimeconfig.json
+E:\Visual Studio工作目录\爬虫Code\爬虫Code\bin\Debug\netcoreapp1.1\爬虫Code.runtimeconfig.dev.json
+E:\Visual Studio工作目录\爬虫Code\爬虫Code\bin\Debug\netcoreapp1.1\爬虫Code.dll
+E:\Visual Studio工作目录\爬虫Code\爬虫Code\bin\Debug\netcoreapp1.1\爬虫Code.pdb
+E:\Visual Studio工作目录\爬虫Code\爬虫Code\obj\Debug\netcoreapp1.1\爬虫Code.csprojResolveAssemblyReference.cache
+E:\Visual Studio工作目录\爬虫Code\爬虫Code\obj\Debug\netcoreapp1.1\爬虫Code.AssemblyInfo.cs
+E:\Visual Studio工作目录\爬虫Code\爬虫Code\obj\Debug\netcoreapp1.1\爬虫Code.dll
+E:\Visual Studio工作目录\爬虫Code\爬虫Code\obj\Debug\netcoreapp1.1\爬虫Code.pdb
+E:\Visual Studio工作目录\爬虫Code\爬虫Code\bin\Debug\netcoreapp1.1\Dy2018CrawlerForJson.dll
+E:\Visual Studio工作目录\爬虫Code\爬虫Code\bin\Debug\netcoreapp1.1\Dy2018CrawlerForJson.pdb
